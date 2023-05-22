@@ -1,5 +1,7 @@
 var player;
 
+/* anahjksgd */
+
 let neg_distance = 25;
 let highscore = 1000;
 let distance;
